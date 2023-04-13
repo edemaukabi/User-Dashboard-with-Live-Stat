@@ -1,3 +1,17 @@
+# About this App
+This is a dashboard app I built with React, Tailwindcss, Recharts and other peripherial javascript technologies.
+It provides interfaces to show different user settings and features obtainable in a typical dashboard for an admin or a user.
+A lot of the presentation logic has been done by me in this version but there is still room for improvement with time.
+
+To run this provide
+Clone this project from the github repo
+CD or move into the root folder
+Run npm install to install all the dependencies I used which can be found in package.json
+Run npm start or npm run dev and go the particular port that it is running on
+
+N/B I can still improve on this in accessibility, responsiveness but I have implemented most of the UI logic so far.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
